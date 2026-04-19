@@ -14,9 +14,23 @@ class Solution {
             return -1;
         }
 
-        List<Integer> list = new ArrayList<>(set);
+        /*List<Integer> list = new ArrayList<>(set);
         Collections.sort(list);
 
-        return list.get(list.size()-2);
+        return list.get(list.size()-2);*/
+
+        //now simply find second max
+        int first  = -1 ;
+        int second = -1;
+        for(int nums : set){
+            if(nums > first){
+                second = first;
+                first  = nums;
+            }
+            else if(nums >second && nums!= first){
+                second = nums;
+            }
+        }
+        return second;
     }
 }
