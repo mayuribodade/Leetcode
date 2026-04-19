@@ -1,36 +1,22 @@
-import java .util.*;
 class Solution {
     public int secondHighest(String s) {
-        Set<Integer> set = new HashSet<>();
+          
+         int first = -1;
+         int second = -1;
 
-        for(char ch : s.toCharArray()){
+         for(int i=0 ; i<s.length() ; i++){
+            char ch = s.charAt(i);
             if(Character.isDigit(ch)){
-                // Convert char '1' to int 1
-                set.add(ch - '0');
+                int num = ch - '0';
+                if(num > first){
+                    second = first;
+                    first = num;
+                }
+                else if(num>second && num!=first){
+                    second = num;
+                }
             }
-        }
-
-        if(set.size() < 2){
-            return -1;
-        }
-
-        /*List<Integer> list = new ArrayList<>(set);
-        Collections.sort(list);
-
-        return list.get(list.size()-2);*/
-
-        //now simply find second max
-        int first  = -1 ;
-        int second = -1;
-        for(int nums : set){
-            if(nums > first){
-                second = first;
-                first  = nums;
-            }
-            else if(nums >second && nums!= first){
-                second = nums;
-            }
-        }
-        return second;
+         }
+         return second;
     }
 }
