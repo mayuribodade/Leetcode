@@ -6,7 +6,7 @@ class Solution {
         }
         int ans = 0;
         int low = 0;
-        int high = x;
+        int high = x/2;
         while(low <= high){
             int mid = low + (high - low) /2;
             long expect = (long) mid * mid; // Use long to prevent overflow
