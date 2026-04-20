@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayuribodade/Leetcode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayuribodade/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mayuribodade/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayuribodade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mayuribodade/Leetcode/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayuribodade/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
