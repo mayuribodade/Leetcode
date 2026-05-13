@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayuribodade/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/mayuribodade/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mayuribodade/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mayuribodade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
