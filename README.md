@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mayuribodade/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/mayuribodade/Leetcode/tree/master/0709-to-lower-case) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mayuribodade/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
