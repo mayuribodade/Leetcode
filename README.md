@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/mayuribodade/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/mayuribodade/Leetcode/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -133,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
