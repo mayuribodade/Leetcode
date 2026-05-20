@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayuribodade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayuribodade/Leetcode/tree/master/0189-rotate-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
