@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/mayuribodade/Leetcode/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/mayuribodade/Leetcode/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mayuribodade/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/mayuribodade/Leetcode/tree/master/0319-bulb-switcher) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/mayuribodade/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -220,9 +222,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/mayuribodade/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/mayuribodade/Leetcode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/mayuribodade/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mayuribodade/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/mayuribodade/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
