@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/mayuribodade/Leetcode/tree/master/0319-bulb-switcher) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/mayuribodade/Leetcode/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mayuribodade/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/mayuribodade/Leetcode/tree/master/1518-water-bottles) |
 | [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
