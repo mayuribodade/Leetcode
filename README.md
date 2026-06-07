@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayuribodade/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mayuribodade/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/mayuribodade/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mayuribodade/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
