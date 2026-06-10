@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayuribodade/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/mayuribodade/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayuribodade/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mayuribodade/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/mayuribodade/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mayuribodade/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/mayuribodade/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
