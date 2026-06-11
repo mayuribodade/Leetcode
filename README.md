@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mayuribodade/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/mayuribodade/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/mayuribodade/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/mayuribodade/Leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mayuribodade/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/mayuribodade/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
