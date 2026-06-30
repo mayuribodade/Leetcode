@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mayuribodade/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mayuribodade/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mayuribodade/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mayuribodade/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mayuribodade/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayuribodade/Leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/mayuribodade/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mayuribodade/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mayuribodade/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mayuribodade/Leetcode/tree/master/0189-rotate-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayuribodade/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mayuribodade/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/mayuribodade/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mayuribodade/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/mayuribodade/Leetcode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/mayuribodade/Leetcode/tree/master/1518-water-bottles) |
