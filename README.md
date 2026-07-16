@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mayuribodade/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayuribodade/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/mayuribodade/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mayuribodade/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mayuribodade/Leetcode/tree/master/0242-valid-anagram) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mayuribodade/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayuribodade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayuribodade/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mayuribodade/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mayuribodade/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayuribodade/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mayuribodade/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mayuribodade/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayuribodade/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mayuribodade/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mayuribodade/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/mayuribodade/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
