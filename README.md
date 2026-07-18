@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/mayuribodade/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mayuribodade/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayuribodade/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayuribodade/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayuribodade/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mayuribodade/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayuribodade/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/mayuribodade/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mayuribodade/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/mayuribodade/Leetcode/tree/master/1518-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayuribodade/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/mayuribodade/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayuribodade/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mayuribodade/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/mayuribodade/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Bucket Sort
 |  |
