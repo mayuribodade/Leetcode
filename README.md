@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mayuribodade/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayuribodade/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayuribodade/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mayuribodade/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayuribodade/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mayuribodade/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayuribodade/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mayuribodade/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mayuribodade/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
 | ------- |
