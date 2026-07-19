@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mayuribodade/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/mayuribodade/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mayuribodade/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mayuribodade/Leetcode/tree/master/0058-length-of-last-word) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayuribodade/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/mayuribodade/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/mayuribodade/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayuribodade/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayuribodade/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/mayuribodade/Leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/mayuribodade/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mayuribodade/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mayuribodade/Leetcode/tree/master/0070-climbing-stairs) |
