@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mayuribodade/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/mayuribodade/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mayuribodade/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/mayuribodade/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/mayuribodade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mayuribodade/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/mayuribodade/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayuribodade/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
