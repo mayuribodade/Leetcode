@@ -1,34 +1,37 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
         int n = score.length;
-        Integer[] temp = new Integer [n];
+       int maxscore = Integer.MIN_VALUE;
+       
+       for(int x : score){
+         maxscore = Math.max(maxscore ,x);
+       }
 
-        for(int i=0 ; i<n ;i++){
-            temp[i]= score[i];
-        }
-        //sort temp in DESC 
-        Arrays.sort(temp , Collections.reverseOrder());
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-       for(int i=0 ; i<n ; i++){
-        map.put(temp[i] , i+1);//element and their rank
+       int[] mp = new int[maxscore + 1];
+       Arrays.fill(mp , -1);
+       for(int i=0 ; i<n  ; i++){
+        mp[score[i]] = i;
        }
 
        //iterate over original score arr
+      int rank = 1;
       String [] ans = new String[n];
-      for(int i=0 ; i<n ; i++){
+
+      for(int i=maxscore ; i>=0 ; i--){
     
-       int rank = map.get(score[i]);
+    if (mp[i]!= -1){
+        int idx = mp[i];
+        if(rank == 1) ans[idx] = "Gold Medal";
 
-        if(rank == 1) ans[i] = "Gold Medal";
+       else if(rank == 2) ans[idx] = "Silver Medal";
 
-       else if(rank == 2) ans[i] = "Silver Medal";
+       else if(rank == 3) ans[idx] = "Bronze Medal";
 
-       else if(rank == 3) ans[i] = "Bronze Medal";
+       else  ans[idx] = String.valueOf(rank);
 
-       else  ans[i] = String.valueOf(rank);
-      }
+       rank++;
+    }     
+  }
       return ans;
     }
 }
