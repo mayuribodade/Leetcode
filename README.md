@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mayuribodade/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/mayuribodade/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Queue
