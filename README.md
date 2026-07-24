@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/mayuribodade/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayuribodade/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/mayuribodade/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/mayuribodade/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mayuribodade/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3492-maximum-containers-on-a-ship](https://github.com/mayuribodade/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/mayuribodade/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/mayuribodade/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/mayuribodade/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
 |  |
 | ------- |
