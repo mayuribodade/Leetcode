@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mayuribodade/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/mayuribodade/Leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/mayuribodade/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayuribodade/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mayuribodade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1408-string-matching-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mayuribodade/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/mayuribodade/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mayuribodade/Leetcode/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayuribodade/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mayuribodade/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/mayuribodade/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
