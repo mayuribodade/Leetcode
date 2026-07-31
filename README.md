@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mayuribodade/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayuribodade/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mayuribodade/Leetcode/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/mayuribodade/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/mayuribodade/Leetcode/tree/master/0078-subsets) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mayuribodade/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayuribodade/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mayuribodade/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/mayuribodade/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/mayuribodade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayuribodade/Leetcode/tree/master/0125-valid-palindrome) |
