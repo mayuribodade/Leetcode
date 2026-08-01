@@ -1,15 +1,20 @@
 class Solution {
     public String reverseWords(String s) {
-        String [] words = s.split(" ");
-        StringBuilder s1 = new StringBuilder();
+      String [] word = s.split(" ");
+      StringBuilder s1 = new StringBuilder();
 
-        for(int i=0 ; i<words.length ; i++){
-            String s2 = new StringBuilder(words[i]).reverse().toString();
+      for(int i=0 ; i<word.length ; i++){
 
-            s1.append(s2);
-            if(i<words.length-1){ s1.append(" ");}
+        StringBuilder sb = new StringBuilder(word[i]);
+        String s2 = sb.reverse().toString();
 
+        s1.append(s2);
+        //after every reverse word give space till second last word
+        
+        if(i<word.length-1){
+            s1.append(" ");
         }
-        return s1.toString();
+      }
+      return s1.toString();
     }
 }
