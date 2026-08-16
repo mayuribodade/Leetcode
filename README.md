@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mayuribodade/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/mayuribodade/Leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/mayuribodade/Leetcode/tree/master/0819-most-common-word) |
+| [0875-koko-eating-bananas](https://github.com/mayuribodade/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/mayuribodade/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mayuribodade/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/mayuribodade/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/mayuribodade/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/mayuribodade/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/mayuribodade/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mayuribodade/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayuribodade/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mayuribodade/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
