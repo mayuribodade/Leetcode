@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mayuribodade/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/mayuribodade/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/mayuribodade/Leetcode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/mayuribodade/Leetcode/tree/master/0326-power-of-three) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mayuribodade/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayuribodade/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mayuribodade/Leetcode/tree/master/0877-stone-game) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mayuribodade/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mayuribodade/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mayuribodade/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/mayuribodade/Leetcode/tree/master/0326-power-of-three) |
 ## Monotonic Stack
 |  |
 | ------- |
