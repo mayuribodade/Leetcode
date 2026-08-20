@@ -2,26 +2,45 @@ class Solution {
     public int trap(int[] height) {
         int n= height.length;
 
-        //leftmax auxillary array
-        int leftmax[] = new int[n];
-        leftmax[0] = height[0];
-        for(int i=1 ; i<n ; i++){
-            leftmax[i] = Math.max(leftmax[i-1] , height[i]);
+       // using TWO-POINTER
+       int left =0 ;
+       int right = n-1;
+       int leftmax = 0;
+       int rightmax =0 ;
+       int trappedwater = 0;
+
+      //left and right uses only for traversing on height array
+       while(left <  right){
+        //leftboundary updation and trappedwater calculation
+
+        if(height[left] <= height[right]){
+            //means leftside
+            if(height[left] >= leftmax){
+                //found maxboundary on left
+                leftmax = height[left];
+            }
+            else{
+                //leftma is grater
+                trappedwater += leftmax - height[left];
+            }
+            left++;
         }
 
-        //rightmax array
-        int rightmax[] = new int[n];
-        rightmax[n-1] = height[n-1];
-        for(int i=n-2 ; i>=0 ;i--){
-            rightmax[i] = Math.max(rightmax[i+1] , height[i]);
-        }
+         else{  //rightboundary updation and trappedwater calculation
+        // height[right] < height[left]
 
-        int trappedWater = 0;
-        for(int i=0 ; i<n ; i++){
-            int waterlevel = Math.min(leftmax[i] , rightmax[i]);
-
-            trappedWater = trappedWater + (waterlevel - height[i]);
+            if(height[right] >= rightmax){
+             //found maxboundary on right
+                 rightmax = height[right];
+            }
+             else{
+                  trappedwater += rightmax - height[right];
+            }
+         right --;
         }
-        return trappedWater;
+       }
+       return trappedwater;
+
+       //in this way we can update leftmax , rightmax and calculation of trappedwater in only one loop
     }
 }
