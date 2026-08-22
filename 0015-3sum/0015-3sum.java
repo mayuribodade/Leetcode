@@ -25,6 +25,11 @@ class Solution {
             }
         }
        }
-       return new ArrayList<>(result);
+       List<List<Integer>> ans = new ArrayList<>();
+       for(List<Integer> x : result){
+           ans.add(x);
+       }
+       return ans;
+      // return new ArrayList<>(result);
     }
 }
