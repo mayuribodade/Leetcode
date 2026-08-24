@@ -1,0 +1,28 @@
+class Solution {
+    public int numIslands(char[][] grid) {
+        int island = 0;
+        for(int i=0 ; i<grid.length ; i++){
+            for(int j=0 ; j<grid[0].length ; j++){
+                if(grid[i][j] == '1'){
+                    dfs(grid , i , j);
+                    island++;
+                }
+            }
+        }
+        return island;
+    }
+    private void dfs (char[][] grid , int row , int col){
+        if(row<0 || row>= grid.length || 
+              col<0 || col>=grid[0].length ||
+              grid[row][col] == '0')  return ;
+
+              //mark visted 
+              grid[row][col] = '0';
+
+              //recursive call in all 4 dir
+              dfs(grid , row-1 ,col);
+              dfs(grid , row+1 ,col);
+              dfs(grid , row ,col+1);
+              dfs(grid , row ,col-1);
+    }
+}
