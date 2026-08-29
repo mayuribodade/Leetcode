@@ -1,35 +1,52 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int mincap = 0;
-        int maxcap = 0;
+       //find maxcap ans sumofall weights 
+       //minimum capicity lies between both of them
 
-        for(int x : weights){
-            // initially mincap = larget  elem of array
-            mincap = Math.max(mincap ,x );
-            // maxcap is total sum of array
-            maxcap += x;
-        }
-        while(mincap < maxcap){
-            int mid = mincap + (maxcap-mincap)/2;
+       int mincap = 0;
+       int maxcap = 0;
 
-            //taking capacity = mid
-            int D = 1;
-            int sum = 0 ;
-            for(int weight : weights){
-                if(sum + weight > mid){
-                    D++;
-                    sum = 0;
-                }
-                sum += weight;
-            }
-            //if more days required then increase capicity
-            if(D > days ){
-                mincap = mid+1;
-            }
-            else{// if days are less or equal 
-                maxcap = mid;
-            }
-        }
-        return mincap;
+       //mincap must at least handle the heaviest package
+       //maxcap = ship carries everything in one day
+
+       for(int n : weights){
+           mincap = Math.max(mincap , n);
+           maxcap += n;
+       }
+
+       int low = mincap;
+       int high = maxcap ;
+
+       while(low < high){
+        int mid = low + (high - low)/2;
+
+          if(canShip(weights , days , mid)){
+             // Capacity works.
+                // Try smaller capacity.
+                high = mid;
+           }
+           else{
+             //if not work them increase capacity
+               low = mid+1;
+           }
+       }
+       return low;
+    
     }
+   private boolean canShip(int[] weights , int D , int load){
+       int ddays = 1;
+       int currentweight = 0;
+
+       for(int n : weights){
+          if(n + currentweight > load){
+            //change day and update currentweight
+            ddays++;
+            currentweight = n;
+          }
+          else{
+            currentweight += n;
+          }
+       }
+       return ddays <= D;
+   }
 }
