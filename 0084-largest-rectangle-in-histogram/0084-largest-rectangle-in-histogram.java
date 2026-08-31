@@ -12,8 +12,8 @@ class Solution {
                 s.pop();
             }
             if(s.isEmpty()){
-                //we fill -1 but instead it here in this problem we fill n
-                right[i] = n;
+               
+                right[i] = -1;
             }
             else{
                 right[i] = s.peek();
@@ -41,6 +41,9 @@ class Solution {
         int ans = Integer.MIN_VALUE;
 
         for(int i=0 ; i<n ; i++){
+            if(right[i] == -1 ){
+                right[i] = n;
+            }
             int width = right[i]-left[i]-1;
             int area = heights[i] * width;
 
