@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/mayuribodade/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0686-repeated-string-match](https://github.com/mayuribodade/Leetcode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/mayuribodade/Leetcode/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/mayuribodade/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/mayuribodade/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mayuribodade/Leetcode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/mayuribodade/Leetcode/tree/master/0819-most-common-word) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/mayuribodade/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/mayuribodade/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/mayuribodade/Leetcode/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/mayuribodade/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mayuribodade/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/mayuribodade/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/mayuribodade/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/mayuribodade/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/mayuribodade/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/mayuribodade/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/mayuribodade/Leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/mayuribodade/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/mayuribodade/Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/mayuribodade/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
