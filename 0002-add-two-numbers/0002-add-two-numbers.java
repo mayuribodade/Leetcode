@@ -35,8 +35,8 @@ class Solution {
             ptr = ptr.next;//move pointer
         }
         //in last if carry remains add it directly to list
-        if(carry == 1){
-            ptr.next  = new ListNode(1);
+        if(carry >0){
+            ptr.next  = new ListNode(carry);
         }
         return res.next;//returning list after result node because it is dummy node
     }
