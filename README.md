@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayuribodade/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2063-vowels-of-all-substrings](https://github.com/mayuribodade/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayuribodade/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mayuribodade/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/mayuribodade/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/mayuribodade/Leetcode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/mayuribodade/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [2063-vowels-of-all-substrings](https://github.com/mayuribodade/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mayuribodade/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/mayuribodade/Leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayuribodade/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2063-vowels-of-all-substrings](https://github.com/mayuribodade/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/mayuribodade/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayuribodade/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -735,4 +738,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/mayuribodade/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/mayuribodade/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
