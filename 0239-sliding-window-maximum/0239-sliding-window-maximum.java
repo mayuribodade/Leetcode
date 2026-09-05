@@ -1,36 +1,28 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
+        int n = nums.length;
         int[] ans = new int[nums.length-k +1];
         int idx = 0;
 
         Deque<Integer> dq = new ArrayDeque<>();
 
-        //first window of size k
-        for(int i=0 ; i<k ; i++){
-            while(dq.size()>0 && nums[dq.peekLast()] <= nums[i]){
-                dq.pollLast();
-            }
-            dq.addLast(i);//index
+      for(int i=0 ; i<n ; i++){
+        //remove element indixes from current window first ,means remove expires window
+        while(!dq.isEmpty() && dq.peekFirst() <= i-k){
+            dq.pollFirst();
+        }
+        //add ggreater elemet and remove smaller from dq
+        while(!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]){
+            dq.pollLast();
         }
 
-        for(int i=k ; i<nums.length ; i++){
-            //add front of deque to ans 
+        //add greater elem
+         dq.addLast(i);//add index
+
+         if(i >= k-1){
             ans[idx++] = nums[dq.peekFirst()];
-
-            //remove elem that are not part of current window
-            while(dq.size()>0 && dq.peekFirst() <= i-k){
-                dq.pollFirst();
-            }
-
-            //remove smaller value from window
-            while(dq.size()>0 && nums[dq.peekLast()] <= nums[i]){
-                dq.pollLast();
-            }
-            dq.addLast(i);//index
-        }
-        //fill last elem of ans by adding front elem of dq
-        ans[idx] = nums[dq.peekFirst()];
-
-        return ans;
+         }
+      }
+      return ans;
     }
 }
