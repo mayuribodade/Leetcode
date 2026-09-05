@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayuribodade/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mayuribodade/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mayuribodade/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2401-longest-nice-subarray](https://github.com/mayuribodade/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayuribodade/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/mayuribodade/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/mayuribodade/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2401-longest-nice-subarray](https://github.com/mayuribodade/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mayuribodade/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/mayuribodade/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayuribodade/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mayuribodade/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2401-longest-nice-subarray](https://github.com/mayuribodade/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayuribodade/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayuribodade/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
