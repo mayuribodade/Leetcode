@@ -11,16 +11,20 @@ class Solution {
         int left = 0;
         int count = 0;
         int right = 0;
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int distinct =0;
+       
+       int[] freq = new int [nums.length+1];
 
         while(right<nums.length){
             int n = nums[right];
-            map.put(n,map.getOrDefault(n,0)+1);
+           if(freq[n] == 0) distinct++;
 
-            while(map.size()>k){
-                int leftelem = nums[left];
-                map.put(leftelem , map.get(leftelem) - 1);
-                if(map.get(leftelem) == 0) map.remove(leftelem);
+           freq[n]++;
+
+            while(distinct >k){
+                int l = nums[left];
+                freq[l]--;
+                if(freq[l] == 0) distinct--;
                 left++;
             }
             count = count + right-left+1;
