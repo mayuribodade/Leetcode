@@ -14,7 +14,7 @@ class Solution {
 
             if(left && right){
                 nums[i] = 1;
-                count++;
+               n--;
             }
            }
         }
