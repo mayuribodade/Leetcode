@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mayuribodade/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/mayuribodade/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/mayuribodade/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mayuribodade/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mayuribodade/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mayuribodade/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/mayuribodade/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/mayuribodade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/mayuribodade/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mayuribodade/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
