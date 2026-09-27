@@ -1,38 +1,33 @@
 class Solution {
     public String reverseParentheses(String s) {
-        Stack<Character> st = new Stack<>();
+         
+         StringBuilder sb = new StringBuilder ();
 
-        for(int i=0 ; i<s.length() ; i++){
+         for(int i=0 ; i<s.length() ; i++){
             char ch = s.charAt(i);
 
-            if(ch != ')'){
-                st.push(ch);
-            }
-           //now we get ) bracket
-            else{
-                StringBuilder sb = new StringBuilder();
+            if(ch == ')'){
+                int idx = sb.length()-1; 
 
-                char top = st.pop();
-
-                while(top != '('){
-                    sb.append(top);
-                    top = st.pop(); //jab top pe ) milega , loop terminated
-                    // aur ) bhi hat jayega
+                while(idx >=0 && sb.charAt(idx) != '('){
+                    idx--; //check ( left side
                 }
-                
-               for(int k=0 ; k<sb.length() ; k++){
-                   st.push(sb.charAt(k));
-               }
+                //we find first ( now after that reverse string
+                StringBuilder newstr = new StringBuilder(sb.substring(idx+1));
+
+                newstr.reverse();
+
+            // Replace the old part (including '(') with the reversed string
+                sb.delete(idx , sb.length());
+                sb.append(newstr);
             }
-        }
 
-       StringBuilder ans = new StringBuilder();
+            else{
+                //add until we find )
+                sb.append(ch);
 
-       while(!st.isEmpty()){
-          char c = st.pop();
-          ans.append(c);
-       }
-       ans = ans.reverse();
-       return ans.toString();
+            }
+         }
+         return sb.toString();
     }
 }
