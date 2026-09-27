@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayuribodade/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mayuribodade/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayuribodade/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mayuribodade/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mayuribodade/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayuribodade/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mayuribodade/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mayuribodade/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayuribodade/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mayuribodade/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/mayuribodade/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayuribodade/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mayuribodade/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mayuribodade/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mayuribodade/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mayuribodade/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mayuribodade/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3536-maximum-product-of-two-digits](https://github.com/mayuribodade/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
