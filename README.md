@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/mayuribodade/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mayuribodade/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayuribodade/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/mayuribodade/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayuribodade/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayuribodade/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/mayuribodade/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/mayuribodade/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mayuribodade/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3477-fruits-into-baskets-ii](https://github.com/mayuribodade/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3701-compute-alternating-sum](https://github.com/mayuribodade/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
