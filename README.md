@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/mayuribodade/Leetcode/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mayuribodade/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/mayuribodade/Leetcode/tree/master/2788-split-strings-by-separator) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayuribodade/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayuribodade/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3477-fruits-into-baskets-ii](https://github.com/mayuribodade/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mayuribodade/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayuribodade/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/mayuribodade/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayuribodade/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/mayuribodade/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Counting
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mayuribodade/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mayuribodade/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mayuribodade/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayuribodade/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/mayuribodade/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/mayuribodade/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/mayuribodade/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/mayuribodade/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mayuribodade/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
