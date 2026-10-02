@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mayuribodade/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayuribodade/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayuribodade/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/mayuribodade/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/mayuribodade/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mayuribodade/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/mayuribodade/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mayuribodade/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/mayuribodade/Leetcode/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/mayuribodade/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
