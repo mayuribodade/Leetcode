@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mayuribodade/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mayuribodade/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/mayuribodade/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayuribodade/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/mayuribodade/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mayuribodade/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mayuribodade/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mayuribodade/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/mayuribodade/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0412-fizz-buzz](https://github.com/mayuribodade/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayuribodade/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mayuribodade/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mayuribodade/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mayuribodade/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/mayuribodade/Leetcode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/mayuribodade/Leetcode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mayuribodade/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
