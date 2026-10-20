@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mayuribodade/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mayuribodade/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mayuribodade/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/mayuribodade/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mayuribodade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mayuribodade/Leetcode/tree/master/0229-majority-element-ii) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayuribodade/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mayuribodade/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mayuribodade/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/mayuribodade/Leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/mayuribodade/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mayuribodade/Leetcode/tree/master/0263-ugly-number) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mayuribodade/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mayuribodade/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayuribodade/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/mayuribodade/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mayuribodade/Leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayuribodade/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Longest Common Subsequence
 |  |
@@ -900,4 +904,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayuribodade/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mayuribodade/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mayuribodade/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mayuribodade/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
