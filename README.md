@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mayuribodade/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/mayuribodade/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayuribodade/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/mayuribodade/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/mayuribodade/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/mayuribodade/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayuribodade/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mayuribodade/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/mayuribodade/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayuribodade/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/mayuribodade/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mayuribodade/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mayuribodade/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Graph Theory
