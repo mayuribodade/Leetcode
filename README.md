@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mayuribodade/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/mayuribodade/Leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mayuribodade/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/mayuribodade/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayuribodade/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/mayuribodade/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/mayuribodade/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mayuribodade/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mayuribodade/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/mayuribodade/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/mayuribodade/Leetcode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/mayuribodade/Leetcode/tree/master/0709-to-lower-case) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mayuribodade/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mayuribodade/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mayuribodade/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/mayuribodade/Leetcode/tree/master/0763-partition-labels) |
