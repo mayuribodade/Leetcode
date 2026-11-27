@@ -1,26 +1,22 @@
 class Solution {
     public int[] shortestToChar(String s, char c) {
-        int ans[] = new int[s.length()];
+        List<Integer> idx = new ArrayList<>();
+        int n = s.length();
+        int[] ans = new int[n];
 
-        int lastseen = -s.length();
-
-        for(int i=0; i<s.length();i++){
-            char ch = s.charAt(i);
-           if(ch == c){
-            lastseen = i;
-           }
-           int dist = i-lastseen;
-           ans[i] = dist;
+        for(int i=0 ; i<n ; i++){
+            if(s.charAt(i) == c){
+               idx.add(i);
+            }
         }
 
-        lastseen = 2*s.length();
-        for(int i=s.length()-1 ; i>=0 ; i--){
-            char ch = s.charAt(i);
-           if(ch == c){
-            lastseen = i;
-           }
-           int dist = lastseen - i;
-           ans[i] = Math.min(ans[i],dist);
+        for(int i=0 ; i<n ; i++){
+            int mindist = 10000;
+
+            for(int j : idx){
+              mindist = Math.min(mindist , Math.abs(j-i));
+            }
+            ans[i] = mindist;
         }
         return ans;
     }
