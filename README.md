@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mayuribodade/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/mayuribodade/Leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0575-distribute-candies](https://github.com/mayuribodade/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mayuribodade/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/mayuribodade/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mayuribodade/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mayuribodade/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0575-distribute-candies](https://github.com/mayuribodade/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mayuribodade/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/mayuribodade/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
