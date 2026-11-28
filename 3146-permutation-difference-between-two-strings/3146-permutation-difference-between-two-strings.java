@@ -2,16 +2,20 @@ class Solution {
     public int findPermutationDifference(String s, String t) {
         int sum = 0;
 
-        for(int i=0; i<s.length() ;i++){
-            char ch = s.charAt(i);
+       HashMap<Character,Integer > map = new HashMap<>();
 
-           for(int j=0 ; j<t.length() ; j++){
-             char ch2 = t.charAt(j);
-             if(ch == ch2){
-                sum = sum + Math.abs(i-j);
-             }
-           }
-        }
+       for(int i=0 ; i<s.length() ; i++){
+            map.put(s.charAt(i) , i);
+       }
+
+       for(int j=0 ; j<t.length() ; j++){
+         char ch = t.charAt(j);
+
+         int i = map.get(ch);
+
+         sum += Math.abs(j-i);
+       }
+
         return sum;
     }
 }
