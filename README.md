@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mayuribodade/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mayuribodade/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mayuribodade/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mayuribodade/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mayuribodade/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/mayuribodade/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/mayuribodade/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mayuribodade/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mayuribodade/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayuribodade/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mayuribodade/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/mayuribodade/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayuribodade/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mayuribodade/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mayuribodade/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/mayuribodade/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mayuribodade/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mayuribodade/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mayuribodade/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mayuribodade/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mayuribodade/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mayuribodade/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mayuribodade/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayuribodade/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/mayuribodade/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/mayuribodade/Leetcode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/mayuribodade/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mayuribodade/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/mayuribodade/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mayuribodade/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
